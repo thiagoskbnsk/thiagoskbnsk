@@ -12,7 +12,7 @@ In my free time I like to:
 Would you like to know more about me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoskbnsk)](https://www.linkedin.com/in/thiagoskbnsk)
-[![Site Badge](https://img.shields.io/badge/Site-thiagoskbnsk.github.io-black)](https://thiagoskbnsk.github.io/site/)
+[![Website Badge](https://img.shields.io/badge/Website-thiagoskbnsk.github.io-black)](https://thiagoskbnsk.github.io/site/)
 [![Email Badge](https://img.shields.io/badge/Email-thiagoskibinski%40gmail.com-blue)](mailto:thiagoskibinski@gmail.com)
 
 
