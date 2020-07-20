@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thiago Skibinski from Brazil (🇧🇷). I have 6 years of experience in the development area, I've used several different languages and also worked as a fullstack, but what I really like is the front end.
+My name is Thiago Skibinski from Brazil (🇧🇷). I have almost 7 years of experience in the development area, I've used several different languages and also worked as a fullstack, but what I really like is the front end.
 Currently I'm Senior Front End Developer at [Vivo](https://www.vivo.com.br). I'm passionate about javascript, more specifically with node and react.
 
 In my free time I like to:
