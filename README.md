@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Thiago Skibinski from Brazil (🇧🇷). I have almost 7 years of experience in the development area, I've used several different languages and also worked as a fullstack, but what I really like is the front end.
-Currently I'm Senior Front End Developer at [Grupo Boticário](https://www.linkedin.com/company/grupo-boticario/). I'm passionate about javascript, more specifically with node and react.
+Currently I'm Senior Front End Developer at [JetBridge](https://jetbridge.com/). I'm passionate about javascript, more specifically with node and react.
 
 In my free time I like to:
 - play video games 🕹️
