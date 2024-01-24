@@ -7,7 +7,6 @@ Currently I'm Senior Front End Developer at [JetBridge](https://jetbridge.com/).
 Would you like to know more about me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoskbnsk)](https://www.linkedin.com/in/thiagoskbnsk)
-[![Website Badge](https://img.shields.io/badge/Website-thiagoskbnsk.github.io-black)](https://thiagoskbnsk.github.io/site/)
 [![Email Badge](https://img.shields.io/badge/Email-thiagoskibinski%40gmail.com-blue)](mailto:thiagoskibinski@gmail.com)
 
 
